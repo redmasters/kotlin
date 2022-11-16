@@ -1,5 +1,8 @@
-## Estudos em Kotlin
+# Estudos em Kotlin
 
 # CHANGELOG
-## Adicionado
-* bytebanKotlin - alura:Curso de formacao Kotlin
+Todas as mudancas significativas serao documentadas neste arquivo.
+
+## 2022-11-16 (@redmasters)
+### Adicionado 
+* [bytebanKotlin](https://github.com/redmasters/kotlin/tree/main/bytebanKotlin) - alura:Curso de formacao Kotlin
